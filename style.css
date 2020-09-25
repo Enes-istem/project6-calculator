@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(187, 42, 67);
+}
+.container {
+    width: 400px;
+    background-color: transparent;
+    /* background-color: white; */
+    margin: auto;
+}
+.btn {
+    width: 60px;
+    background-color:rgb(235, 210, 214);
+    text-align: center;
+    line-height: 60px;
+}
+#islem , #gösterge {
+    padding: 5px;
+    text-align: left;
+    color: white;
+    background-color: rgba(0, 0, 0, .75);
+    height: 60px;
+}
+.btn:hover {
+    background-color: white;
+    cursor: pointer;
+}
+h1 {
+    text-align: center;
+    margin-right: 120px;
+    color: white;
+}
+
